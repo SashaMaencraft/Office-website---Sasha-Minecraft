@@ -1,8 +1,16 @@
-# Office-website---Sasha-Minecraft
+# Главная Страница  Сайта
+
+в
+
+<details>
+
+<summary>                                                   Константин Константинович</summary>
 
 
 
-<figure><img src=".gitbook/assets/эльха ревалюсыя4.png" alt=""><figcaption></figcaption></figure>
+</details>
+
+<figure><img src=".gitbook/assets/4JIqIsGbsvA.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
