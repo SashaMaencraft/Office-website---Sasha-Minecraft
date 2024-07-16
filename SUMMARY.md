@@ -4,6 +4,6 @@
 
 ## 🗃️ Страницы&#x20;
 
-* [📱 Pот Сети](stranicy/pot-seti.md)
-* [Page 2](stranicy/page-2.md)
-* [Page 3](stranicy/page-3.md)
+* [📱 Сот Сети](stranicy/sot-seti.md)
+* [📰 Форумы ](stranicy/forumy.md)
+* [📌 Гит Хап](stranicy/git-khap.md)
