@@ -4,4 +4,6 @@
 
 ## 🗃️ Страницы&#x20;
 
-* [Page 1](stranicy/page-1.md)
+* [📱 Pот Сети](stranicy/pot-seti.md)
+* [Page 2](stranicy/page-2.md)
+* [Page 3](stranicy/page-3.md)
