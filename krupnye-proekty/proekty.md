@@ -1,3 +1,3 @@
 # 💻 Проекты&#x20;
 
-К
+{% embed url="https://emsi.easydonate.ru/" %}
