@@ -8,4 +8,6 @@
 
 {% embed url="https://boosty.to/draganvolk" %}
 
+{% embed url="https://rutube.ru/channel/35425216/" %}
+
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
