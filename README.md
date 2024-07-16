@@ -9,19 +9,15 @@
 {% embed url="https://t.me/RussianMinecraft" %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Се вапросы сюда?" %}
+На почту - drakonkarol@yandex.ru
 {% endtab %}
 
-{% tab title="Untitled" %}
-
+{% tab title="Minecraft продажа и влог" %}
+{% embed url="https://vk.com/minecraftersteve" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
-
-{% endtab %}
-
-{% tab title="Untitled" %}
-
+{% tab title="Донат - подержка" %}
+{% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
 {% endtab %}
 {% endtabs %}
