@@ -10,4 +10,6 @@
 
 {% embed url="https://rutube.ru/channel/35425216/" %}
 
+{% embed url="https://t.me/RussianMinecraft" %}
+
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
