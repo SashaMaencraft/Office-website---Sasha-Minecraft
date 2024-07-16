@@ -2,6 +2,8 @@
 
 
 
+<figure><img src=".gitbook/assets/эльха ревалюсыя4.png" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="First Tab" %}
 
