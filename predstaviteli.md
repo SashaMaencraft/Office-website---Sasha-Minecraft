@@ -9,5 +9,3 @@
 </details>
 
 <figure><img src=".gitbook/assets/4JIqIsGbsvA.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-{% embed url="https://minecrafters-organization.gitbook.io/untitled/" %}
