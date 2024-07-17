@@ -2,17 +2,15 @@
 
 <details>
 
-<summary>                                                   Константин Константинович</summary>
+<summary>                                                             Представители</summary>
 
-Владелец сайта и владелец крупных проектов которые предоставлены на Официальном сайте
+Здесь се представители сайт и проектов -https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli
 
 </details>
 
-<figure><img src=".gitbook/assets/4JIqIsGbsvA.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
 {% tabs %}
 {% tab title="Здесь предоставлены" %}
-Се страницы нашего проекта
+Се страницы нашего проекта - [https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli](https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli)
 {% endtab %}
 {% endtabs %}
 
