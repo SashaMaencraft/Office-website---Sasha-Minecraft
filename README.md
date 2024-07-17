@@ -4,13 +4,13 @@
 
 <summary>                                                             Представители</summary>
 
-Здесь се представители сайт и проектов -https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli
+Здесь се представители сайт и проектов - [КЛИК](predstaviteli.md)
 
 </details>
 
 {% tabs %}
 {% tab title="Здесь предоставлены" %}
-Се страницы нашего проекта - [https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli](https://app.gitbook.com/o/oBMa8eQ98KOPVUF7FzeW/s/KBEHANTERzJxsrKz13zn/\~/changes/90/predstaviteli)
+Се страницы нашего проекта -
 {% endtab %}
 {% endtabs %}
 
