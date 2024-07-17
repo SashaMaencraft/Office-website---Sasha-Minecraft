@@ -8,12 +8,6 @@
 
 </details>
 
-{% tabs %}
-{% tab title="Здесь предоставлены" %}
-Се страницы нашего проекта -
-{% endtab %}
-{% endtabs %}
-
 {% content-ref url="stranicy/sot-seti.md" %}
 [sot-seti.md](stranicy/sot-seti.md)
 {% endcontent-ref %}
