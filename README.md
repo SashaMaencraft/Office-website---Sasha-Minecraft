@@ -16,10 +16,6 @@
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="stranicy/sot-seti.md" %}
 [sot-seti.md](stranicy/sot-seti.md)
 {% endcontent-ref %}
@@ -30,10 +26,6 @@
 
 {% content-ref url="stranicy/git-khap.md" %}
 [git-khap.md](stranicy/git-khap.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="krupnye-proekty/proekty.md" %}
