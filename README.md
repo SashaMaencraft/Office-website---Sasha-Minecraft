@@ -1,5 +1,7 @@
 # Главная Страница  Сайта
 
+<figure><img src=".gitbook/assets/i-fotor-bg-remover-20240717112434.png" alt="" width="250"><figcaption></figcaption></figure>
+
 <details>
 
 <summary>                                                             Представители</summary>
