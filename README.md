@@ -30,6 +30,10 @@
 [proekty.md](krupnye-proekty/proekty.md)
 {% endcontent-ref %}
 
+{% content-ref url="reklama/sama-reklama.md" %}
+[sama-reklama.md](reklama/sama-reklama.md)
+{% endcontent-ref %}
+
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
 {% embed url="https://t.me/RussianMinecraft" %}
