@@ -11,6 +11,36 @@
 <figure><img src=".gitbook/assets/4JIqIsGbsvA.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% tabs %}
+{% tab title="Здесь предоставлены" %}
+Се страницы сайта нашего проекта
+{% endtab %}
+{% endtabs %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="stranicy/sot-seti.md" %}
+[sot-seti.md](stranicy/sot-seti.md)
+{% endcontent-ref %}
+
+{% content-ref url="stranicy/forumy.md" %}
+[forumy.md](stranicy/forumy.md)
+{% endcontent-ref %}
+
+{% content-ref url="stranicy/git-khap.md" %}
+[git-khap.md](stranicy/git-khap.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="krupnye-proekty/proekty.md" %}
+[proekty.md](krupnye-proekty/proekty.md)
+{% endcontent-ref %}
+
+{% tabs %}
 {% tab title="Свясь с влаельцам" %}
 {% embed url="https://t.me/RussianMinecraft" %}
 {% endtab %}
