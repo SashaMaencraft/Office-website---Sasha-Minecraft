@@ -10,6 +10,10 @@
 
 </details>
 
+{% content-ref url="predstaviteli.md" %}
+[predstaviteli.md](predstaviteli.md)
+{% endcontent-ref %}
+
 {% content-ref url="stranicy/sot-seti.md" %}
 [sot-seti.md](stranicy/sot-seti.md)
 {% endcontent-ref %}
