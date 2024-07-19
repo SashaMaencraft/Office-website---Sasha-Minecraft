@@ -1,6 +1,23 @@
-# Главная Страница  Сайта
+---
+cover: .gitbook/assets/i-fotor-bg-remover-20240717112434.png
+coverY: 108.67991169977924
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-<figure><img src=".gitbook/assets/i-fotor-bg-remover-20240717112434.png" alt="" width="250"><figcaption></figcaption></figure>
+# Главная Страница  Сайта
 
 <details>
 
