@@ -68,3 +68,11 @@ layout:
 {% content-ref url="reklama/sama-reklama.md" %}
 [sama-reklama.md](reklama/sama-reklama.md)
 {% endcontent-ref %}
+
+{% content-ref url="osnova/sotrudnichestvo.md" %}
+[sotrudnichestvo.md](osnova/sotrudnichestvo.md)
+{% endcontent-ref %}
+
+{% content-ref url="osnova/pravilo-nashego-proekta.md" %}
+[pravilo-nashego-proekta.md](osnova/pravilo-nashego-proekta.md)
+{% endcontent-ref %}
