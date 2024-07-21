@@ -29,7 +29,7 @@ layout:
 
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
-{% embed url="https://t.me/RussianMinecraft" %}
+{% embed url="https://t.me/DKJHASKJFNSLbot" %}
 {% endtab %}
 
 {% tab title="Се вапросы сюда?" %}
