@@ -19,17 +19,9 @@ layout:
 
 # Главная Страница  Сайта
 
-<details>
-
-<summary>                                                             Представители</summary>
-
-Здесь се представители сайт и проектов - [_**КЛИК**_](predstaviteli.md)
-
-</details>
-
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
-{% embed url="https://t.me/DKJHASKJFNSLbot" %}
+{% embed url="https://t.me/SashaOwnerbot" %}
 {% endtab %}
 
 {% tab title="Се вапросы сюда?" %}
