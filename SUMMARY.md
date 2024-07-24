@@ -21,3 +21,7 @@
 ## 💎 Реклама
 
 * [⛓️ Сама Реклама](reklama/sama-reklama.md)
+
+***
+
+* [Команды для Telegram БОТА](komandy-dlya-telegram-bota.md)
