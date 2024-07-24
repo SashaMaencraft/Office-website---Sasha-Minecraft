@@ -24,4 +24,4 @@
 
 ***
 
-* [Команды для Telegram БОТА](komandy-dlya-telegram-bota.md)
+* [🤖 Команды для Telegram БОТА](komandy-dlya-telegram-bota.md)

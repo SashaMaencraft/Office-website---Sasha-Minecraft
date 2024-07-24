@@ -25,6 +25,8 @@ layout:
 {% endtab %}
 
 {% tab title="Се вапросы сюда?" %}
+[https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota)
+
 На почту - drakonkarol@yandex.ru
 {% endtab %}
 
@@ -36,6 +38,8 @@ layout:
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota" %}
 
 {% content-ref url="predstaviteli.md" %}
 [predstaviteli.md](predstaviteli.md)
