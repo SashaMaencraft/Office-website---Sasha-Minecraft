@@ -36,10 +36,12 @@ layout:
 
 {% tab title="Донат - подержка" %}
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
+
+{% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota" %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}
 
 {% content-ref url="predstaviteli.md" %}
 [predstaviteli.md](predstaviteli.md)
