@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/photo_2024-07-19_14-16-57.jpg
-coverY: 248.62693156732897
+cover: ../.gitbook/assets/photo_2024-07-19_14-16-57.jpg
+coverY: 293.3774834437087
 layout:
   cover:
     visible: true

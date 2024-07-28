@@ -25,7 +25,7 @@ layout:
 {% endtab %}
 
 {% tab title="Се вапросы сюда?" %}
-[https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy-dlya-telegram-bota)
+
 
 На почту - drakonkarol@yandex.ru
 {% endtab %}
