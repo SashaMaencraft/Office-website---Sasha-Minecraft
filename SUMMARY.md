@@ -22,7 +22,6 @@
 
 * [⛓️ Сама Реклама](reklama/sama-reklama.md)
 
-***
+## 🗄️ Команды
 
-* [🗄️ Команды Бота](komandy-bota/README.md)
-  * [🤖 Команды для Telegram БОТА](komandy-dlya-telegram-bota.md)
+* [🤖 Команды Бота](komandy/komandy-bota.md)
