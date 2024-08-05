@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
-{% embed url="https://t.me/SashaOwnerbot" %}
+{% embed url="https://t.me/OwnerSasha2_bot" %}
 {% endtab %}
 
 {% tab title="Се вапросы сюда?" %}
@@ -40,8 +40,6 @@ layout:
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
 {% endtab %}
 {% endtabs %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}
 
 {% content-ref url="predstaviteli.md" %}
 [predstaviteli.md](predstaviteli.md)
