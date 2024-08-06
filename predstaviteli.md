@@ -4,9 +4,14 @@
 
 <summary>Константин Константинович</summary>
 
-Владелец сайта и владелец крупных проектов которые предоставлены на Официальном сайте [https://t.me/OwnerSashabot](https://t.me/OwnerSashabot)
+Владелец сайта и владелец крупных проектов которые предоставлены на Официальном сайте
 
 </details>
 
-<figure><img src=".gitbook/assets/4JIqIsGbsvA.jpg" alt="" width="188"><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="Официальный - Бот <Разработке>" %}
+{% embed url="https://t.me/OwnerSashabot" %}
+{% endtab %}
+{% endtabs %}
 
+<figure><img src=".gitbook/assets/4JIqIsGbsvA (1).jpg" alt=""><figcaption></figcaption></figure>
