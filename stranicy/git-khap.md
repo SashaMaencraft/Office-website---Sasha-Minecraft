@@ -23,5 +23,3 @@
 • Теперь в браузере нужно вырубить Kyber – пишем в адресной строке chrome://flags, находим и вырубаем. • Наслаждаемся победой.
 
 </details>
-
-{% embed url="https://boosty.to/draganvolk/posts/5deef016-db73-4939-ad76-b6945f0b8f17?share=post_link" %}
