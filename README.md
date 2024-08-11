@@ -45,6 +45,8 @@ layout:
 [predstaviteli.md](predstaviteli.md)
 {% endcontent-ref %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
+
 {% content-ref url="stranicy/sot-seti.md" %}
 [sot-seti.md](stranicy/sot-seti.md)
 {% endcontent-ref %}
