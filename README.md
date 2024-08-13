@@ -36,8 +36,6 @@ layout:
 
 {% tab title="Донат - подержка" %}
 {% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
-
-{% embed url="https://www.donationalerts.com/r/youtube_cross1245" %}
 {% endtab %}
 {% endtabs %}
 
