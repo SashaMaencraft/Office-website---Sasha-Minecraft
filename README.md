@@ -43,8 +43,6 @@ layout:
 [predstaviteli.md](predstaviteli.md)
 {% endcontent-ref %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
-
 {% content-ref url="stranicy/sot-seti.md" %}
 [sot-seti.md](stranicy/sot-seti.md)
 {% endcontent-ref %}
@@ -72,3 +70,19 @@ layout:
 {% content-ref url="osnova/pravilo-nashego-proekta.md" %}
 [pravilo-nashego-proekta.md](osnova/pravilo-nashego-proekta.md)
 {% endcontent-ref %}
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MM23SE3SZ7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MM23SE3SZ7');
+</script>
+```
+{% endtab %}
+{% endtabs %}
