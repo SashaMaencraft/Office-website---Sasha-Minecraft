@@ -74,6 +74,7 @@ layout:
 {% tabs %}
 {% tab title="JavaScript" %}
 ```javascript
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8R4PDLR23N"></script>
 <script>
