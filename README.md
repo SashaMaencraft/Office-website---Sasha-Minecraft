@@ -19,6 +19,16 @@ layout:
 
 # Главная Страница  Сайта
 
+
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+<meta name="google-site-verification" content="HxykDsI2ADxcag1YXAuKPqNj7ZJmc_q2efASM_QGbAo" />
+```
+{% endtab %}
+{% endtabs %}
+
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
 {% embed url="https://t.me/OwnerSasha2_bot" %}
