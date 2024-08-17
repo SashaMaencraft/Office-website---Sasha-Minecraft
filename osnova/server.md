@@ -4,7 +4,7 @@ icon: crate-empty
 
 # Сервер
 
-&#x20;                                                                                  <mark style="color:green;">**Маг**</mark><mark style="color:yellow;">**азин**</mark>
+&#x20;                                                                             <mark style="color:green;">**аг**</mark><mark style="color:yellow;">**азин**</mark>
 
 {% embed url="https://proxy.easydonate.ru/" %}
 
