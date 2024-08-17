@@ -6,6 +6,7 @@
 
 ## 🗂️ Основа
 
+* [Сервер](osnova/server.md)
 * [📕 Правило нашего проекта ](osnova/pravilo-nashego-proekta.md)
 * [✍️ Сотрудничество ](osnova/sotrudnichestvo.md)
 
