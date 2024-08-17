@@ -19,8 +19,6 @@ layout:
 
 # Главная Страница  Сайта
 
-
-
 {% tabs %}
 {% tab title="Свясь с влаельцам" %}
 {% embed url="https://t.me/OwnerSasha2_bot" %}
@@ -41,35 +39,24 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="predstaviteli.md" %}
-[predstaviteli.md](predstaviteli.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/predstaviteli" %}
 
-{% content-ref url="stranicy/sot-seti.md" %}
-[sot-seti.md](stranicy/sot-seti.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
 
-{% content-ref url="stranicy/forumy.md" %}
-[forumy.md](stranicy/forumy.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/server" %}
 
-{% content-ref url="stranicy/git-khap.md" %}
-[git-khap.md](stranicy/git-khap.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-nashego-proekta" %}
 
-{% content-ref url="krupnye-proekty/proekty.md" %}
-[proekty.md](krupnye-proekty/proekty.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/sotrudnichestvo" %}
 
-{% content-ref url="reklama/sama-reklama.md" %}
-[sama-reklama.md](reklama/sama-reklama.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/sot-seti" %}
 
-{% content-ref url="osnova/sotrudnichestvo.md" %}
-[sotrudnichestvo.md](osnova/sotrudnichestvo.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/forumy" %}
 
-{% content-ref url="osnova/pravilo-nashego-proekta.md" %}
-[pravilo-nashego-proekta.md](osnova/pravilo-nashego-proekta.md)
-{% endcontent-ref %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/reklama/sama-reklama" %}
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}
