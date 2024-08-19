@@ -2,6 +2,8 @@
 
 {% embed url="https://github.com/SashaMaencraft/Office-website---Sasha-Minecraft" %}
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 &#x20;                                                       Обход лагов и замедление - YouTube
 
 {% embed url="https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1" %}
@@ -37,3 +39,8 @@
 
 И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
 ```
+
+{% embed url="https://youtu.be/vCut-pVkmFM" %}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
