@@ -23,3 +23,17 @@
 • Теперь в браузере нужно вырубить Kyber – пишем в адресной строке chrome://flags, находим и вырубаем. • Наслаждаемся победой.
 
 </details>
+
+```
+Как обойти замедление YouTube
+
+( 📱Вот мои випины для телефона на Play Market:
+1. https://play.google.com/store/apps/details?id=free.vpn.proxy.secure
+2. https://play.google.com/store/apps/details?id=com.now.vpn )
+
+( 💻 А вот для компьютера расширение
+1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap
+2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio )
+
+И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
+```
