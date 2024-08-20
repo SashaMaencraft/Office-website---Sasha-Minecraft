@@ -12,7 +12,7 @@
 
 ## 🗃️ Страницы&#x20;
 
-* [Сервер](stranicy/server.md)
+* [Сервер](osnova/server.md)
 * [📱 Сот Сети](stranicy/sot-seti.md)
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
