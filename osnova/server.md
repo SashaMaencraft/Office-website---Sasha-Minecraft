@@ -13,9 +13,8 @@ icon: crate-empty
 Сервер на - 1.21 ванила
 Адрес - f1.aurorix.net
 Порт - 29152
-Правела сервера разработке
 ```
 
-
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
 
 <figure><img src="../.gitbook/assets/2024-08-17_13-46-06.png" alt=""><figcaption></figcaption></figure>
