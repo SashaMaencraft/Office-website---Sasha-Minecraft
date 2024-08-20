@@ -6,12 +6,13 @@
 
 ## 🗂️ Основа
 
-* [Сервер](osnova/server.md)
 * [📕 Правило нашего проекта ](osnova/pravilo-nashego-proekta.md)
 * [✍️ Сотрудничество ](osnova/sotrudnichestvo.md)
+* [Правило сервера](osnova/pravilo-servera.md)
 
 ## 🗃️ Страницы&#x20;
 
+* [Сервер](stranicy/server.md)
 * [📱 Сот Сети](stranicy/sot-seti.md)
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
