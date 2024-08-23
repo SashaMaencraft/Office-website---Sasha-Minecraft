@@ -1,7 +1,8 @@
 ---
 cover: >-
-  ../.gitbook/assets/-tvPBu6EN0W5FCGtQHcZifFFpwmoc5iSS7K5LihTavl8DSCkHpZhvfl2LvJHqd08ongjgjAN.jpg
-coverY: -365.5777178796047
+  ../.gitbook/assets/-tvPBu6EN0W5FCGtQHcZifFFpwmoc5iSS7K5LihTavl8DSCkHpZhvfl2LvJHqd08ongjgjAN
+  (1).jpg
+coverY: 0
 layout:
   cover:
     visible: true
