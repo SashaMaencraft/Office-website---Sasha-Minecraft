@@ -1,6 +1,7 @@
 ---
-cover: ../.gitbook/assets/github-sign_318-42173.jpg
-coverY: -316.1401617250674
+cover: >-
+  ../.gitbook/assets/-tvPBu6EN0W5FCGtQHcZifFFpwmoc5iSS7K5LihTavl8DSCkHpZhvfl2LvJHqd08ongjgjAN.jpg
+coverY: -365.5777178796047
 layout:
   cover:
     visible: true
