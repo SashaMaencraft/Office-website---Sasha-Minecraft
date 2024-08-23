@@ -1,3 +1,23 @@
+---
+cover: >-
+  ../.gitbook/assets/photo_2024-08-07_03-36-55-fotor-bg-remover-2024080733753.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📕 Правило нашего проекта&#x20;
 
 #### **Основные правила поведения**

@@ -1,5 +1,21 @@
 ---
 icon: crate-empty
+cover: ../.gitbook/assets/2024-08-17_13-46-06.png
+coverY: 42.932614555256066
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Сервер
@@ -16,5 +32,3 @@ icon: crate-empty
 ```
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
-
-<figure><img src="../.gitbook/assets/2024-08-17_13-46-06.png" alt=""><figcaption></figcaption></figure>

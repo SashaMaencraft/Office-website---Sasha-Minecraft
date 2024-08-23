@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/github-sign_318-42173.jpg
+coverY: -316.1401617250674
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📌 Гит Хап
 
 {% embed url="https://github.com/SashaMaencraft/Office-website---Sasha-Minecraft" %}

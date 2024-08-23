@@ -1,5 +1,21 @@
 ---
 icon: first-order
+cover: ../.gitbook/assets/2024-08-17_13-46-06.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Правило сервера

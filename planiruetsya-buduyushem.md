@@ -1,11 +1,11 @@
 ---
 icon: unity
-cover: .gitbook/assets/photo_2024-08-07_03-36-55-fotor-bg-remover-2024080733753.png
-coverY: 11.792158131176997
+cover: .gitbook/assets/i (1).webp
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
