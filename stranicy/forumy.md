@@ -19,4 +19,5 @@ layout:
 
 # 📰 Форумы&#x20;
 
-[у](https://proxy.easydonate.ru/)
+{% embed url="https://proxy.easydonate.ru/" %}
+
