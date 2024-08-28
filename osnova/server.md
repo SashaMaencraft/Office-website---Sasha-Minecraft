@@ -1,7 +1,7 @@
 ---
 icon: crate-empty
-cover: ../.gitbook/assets/2024-08-17_13-46-06.png
-coverY: 42.932614555256066
+cover: ../.gitbook/assets/2024-08-28_04-54-52.png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -26,9 +26,9 @@ layout:
 
 ```
                                     Разработке
-Сервер на - 1.21 ванила
+Сервер на - 1.21.1 ванила
 Адрес - f1.aurorix.net
-Порт - 29152
+Порт - 34798
 ```
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
