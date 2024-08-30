@@ -20,13 +20,7 @@ layout:
 # Главная Страница  Сайта
 
 {% tabs %}
-{% tab title="Свясь с влаельцам" %}
-{% embed url="https://t.me/OwnerSasha2_bot" %}
-{% endtab %}
-
 {% tab title="Се вапросы сюда?" %}
-
-
 На почту - drakonkarol@yandex.ru
 {% endtab %}
 
@@ -39,15 +33,23 @@ layout:
 {% endtab %}
 {% endtabs %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft" %}
+
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/predstaviteli" %}
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/server" %}
+&#x20;                                                                   🗂️ **Основа**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-nashego-proekta" %}
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/sotrudnichestvo" %}
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
+
+&#x20;                                                                 🗃️ **Страницы**
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/server" %}
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/sot-seti" %}
 
@@ -55,10 +57,12 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/mody-i-sborki" %}
+
+&#x20;                                                              🗃️ **Крупные Проекты**
+
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
 
+## &#x20;                                        🤖Команды Бота
+
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/mody-i-sborki" %}
