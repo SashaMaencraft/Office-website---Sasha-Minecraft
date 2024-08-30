@@ -1,6 +1,6 @@
 ---
 icon: crate-empty
-cover: ../.gitbook/assets/2024-08-28_04-57-43.png
+cover: ../.gitbook/assets/2024-08-30_18-40-20.png
 coverY: 0
 layout:
   cover:
