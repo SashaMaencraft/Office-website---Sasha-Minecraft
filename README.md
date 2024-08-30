@@ -61,9 +61,11 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
 
+о
 
-
-```
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
 <!-- Chatra {literal} -->
 <script>
     (function(d, w, c) {
@@ -79,4 +81,6 @@ layout:
 </script>
 <!-- /Chatra {/literal} -->
 ```
+{% endtab %}
+{% endtabs %}
 
