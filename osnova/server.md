@@ -28,7 +28,7 @@ layout:
                                     Разработке
 Сервер на - 1.21.1 ванила
 Адрес - f1.aurorix.net
-Порт - 34798
+Порт - 36483
 ```
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
