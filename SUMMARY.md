@@ -16,6 +16,7 @@
 * [📱 Сот Сети](stranicy/sot-seti.md)
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
+* [Моды И Сборки ](stranicy/mody-i-sborki.md)
 
 ## 🗃️ Крупные Проекты&#x20;
 
