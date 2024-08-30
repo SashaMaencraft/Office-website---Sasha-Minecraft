@@ -61,3 +61,4 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/mody-i-sborki" %}
