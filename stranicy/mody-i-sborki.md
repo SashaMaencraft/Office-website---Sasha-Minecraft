@@ -1,7 +1,7 @@
 ---
 icon: fedora
-cover: ../.gitbook/assets/i (4).webp
-coverY: 322.6451033243486
+cover: ../.gitbook/assets/maxresdefault.jpg
+coverY: 54.64150943396227
 layout:
   cover:
     visible: true
