@@ -27,3 +27,7 @@ layout:
 &#x20;                                                    <mark style="color:orange;">**Новогодние обновлении**</mark>
 
 {% embed url="https://disk.yandex.ru/d/YBFNM1sUKLYJsQ" %}
+
+### &#x20;                                             _<mark style="color:purple;">Фиолетовая зимля</mark>_
+
+{% embed url="https://legacy.curseforge.com/minecraft/mc-mods/pure-mod" %}
