@@ -31,3 +31,7 @@ layout:
 ### &#x20;                                             _<mark style="color:purple;">Фиолетовая зимля</mark>_
 
 {% embed url="https://legacy.curseforge.com/minecraft/mc-mods/pure-mod" %}
+
+## &#x20;                                           <mark style="color:purple;">Мод на 1.20.1 Forge</mark>
+
+{% embed url="https://disk.yandex.ru/d/SCt_QFfUe3GzqQ" %}
