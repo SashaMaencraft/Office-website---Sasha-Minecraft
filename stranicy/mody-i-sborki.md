@@ -20,18 +20,19 @@ layout:
 
 # Моды И Сборки&#x20;
 
-&#x20;                                                 <mark style="color:green;">**Мая сборка для снёмки ролика**</mark>
+&#x20;                                                      <mark style="color:green;">**Мая сборка для снёмки ролика**</mark>
 
 {% embed url="https://disk.yandex.ru/d/WFh0yhop5rvIkA" %}
 
-&#x20;                                                    <mark style="color:orange;">**Новогодние обновлении**</mark>
+&#x20;                                                             <mark style="color:orange;">**Новогодние обновлении**</mark>
 
 {% embed url="https://disk.yandex.ru/d/YBFNM1sUKLYJsQ" %}
 
-### &#x20;                                             _<mark style="color:purple;">Фиолетовая зимля</mark>_
+## &#x20;                                       <mark style="color:purple;">Мод на 1.20.1 Forge</mark>
+
+{% embed url="https://disk.yandex.ru/d/SCt_QFfUe3GzqQ" %}
+
+### &#x20;                                                      _<mark style="color:purple;">Фиолетовая зимля</mark>_
 
 {% embed url="https://legacy.curseforge.com/minecraft/mc-mods/pure-mod" %}
 
-## &#x20;                                           <mark style="color:purple;">Мод на 1.20.1 Forge</mark>
-
-{% embed url="https://disk.yandex.ru/d/SCt_QFfUe3GzqQ" %}
