@@ -23,7 +23,9 @@ layout:
 
 {% embed url="https://github.com/SashaMaencraft/Office-website---Sasha-Minecraft" %}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+***
 
 &#x20;                                                       Обход лагов и замедление - YouTube
 
@@ -63,5 +65,7 @@ layout:
 
 {% embed url="https://youtu.be/vCut-pVkmFM" %}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+***
 
