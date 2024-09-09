@@ -13,7 +13,7 @@
 ## 🗃️ Страницы&#x20;
 
 * [Сервер](osnova/server.md)
-* [📱 Сот Сети](stranicy/sot-seti.md)
+* [📱  Соцсети](stranicy/socseti.md)
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
 * [Моды И Сборки ](stranicy/mody-i-sborki.md)
