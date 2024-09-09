@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="Се вапросы сюда?" %}
-На почту - drakonkarol@yandex.ru
+На почту - drakon.karol@yandex.ru
 {% endtab %}
 
 {% tab title="Minecraft продажа и влог" %}
@@ -63,6 +63,6 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
 
-## &#x20;                                        🤖Команды Бота
+## &#x20;                                   🤖Команды Бота
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}
