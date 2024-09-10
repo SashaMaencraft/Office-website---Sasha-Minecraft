@@ -65,7 +65,11 @@ layout:
 
 {% embed url="https://youtu.be/vCut-pVkmFM" %}
 
+***
 
+&#x20;                                                                <mark style="color:yellow;">**Ска**</mark><mark style="color:green;">**чать**</mark>** **<mark style="color:orange;">**янд**</mark><mark style="color:purple;">**екс**</mark> <mark style="color:red;">**Бра**</mark><mark style="color:blue;">**узер**</mark>
+
+{% embed url="https://yandex.ru/project/browser/brand/s/brw_ya_01?utm_term=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&banerid=0600005800&utm_campaign=search_brand_ru_2%7C55140847&utm_medium=search&from=direct_serp&etext=2202.q7pNZ20tBoBzKu2c84I-gT-_5vrLzsfpDjYCnURAQDciQALbjfXPFQR-pwpqLXV_aXBlenhtZG1na2FsaGl4Yg.b1c48569b6fa1d7f4e577a94b4b961828ce12d2e&yclid=7873275566224048127&utm_content=5488537567%7C16466185603&utm_source=yandex" %}
 
 ***
 
