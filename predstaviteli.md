@@ -19,10 +19,6 @@ layout:
 
 # 🧑‍💻 Представители&#x20;
 
-***
-
-
-
 <details>
 
 <summary>Александр Александрович</summary>
@@ -34,13 +30,17 @@ layout:
 </details>
 
 {% tabs %}
-{% tab title="Официальный - Бот " %}
-{% embed url="https://t.me/OwnerSasha2_bot" %}
+{% tab title="Официальный - Бот" %}
+{% embed url="https://t.me/SashaWorldbot" %}
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/4JIqIsGbsvA (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
+<div align="center">
+
+<figure><img src=".gitbook/assets/h.png" alt="" width="256"><figcaption></figcaption></figure>
+
+</div>
 
 ***

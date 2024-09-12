@@ -27,6 +27,6 @@ layout:
 
 &#x20;                                                                                     <mark style="color:red;">**БОТЫ**</mark>
 
-{% embed url="https://t.me/OwnerSasha2_bot" %}
+{% embed url="https://t.me/SashaWorldbot" %}
 
 {% embed url="https://t.me/PremiumBot" %}
