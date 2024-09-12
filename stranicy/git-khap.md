@@ -31,6 +31,18 @@ layout:
 
 {% embed url="https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1" %}
 
+<figure><img src="../.gitbook/assets/Безымянный.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Безымянный2.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                                         <mark style="color:purple;">**Готова**</mark>
+
+
+
+***
+
 &#x20;                                                                                **Инструкция**&#x20;
 
 <details>
