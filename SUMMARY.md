@@ -17,7 +17,7 @@
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
 * [Моды И Сборки ](stranicy/mody-i-sborki.md)
-* [Музыка кампании](stranicy/muzyka-kampanii.md)
+* [Музыка кампании](stranicy/maya-muzyka.md)
 
 ## 🗃️ Крупные Проекты&#x20;
 

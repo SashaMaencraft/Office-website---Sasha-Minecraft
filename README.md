@@ -59,6 +59,8 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/mody-i-sborki" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/muzyka-kampanii" %}
+
 &#x20;                                                              🗃️ **Крупные Проекты**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
