@@ -12,12 +12,12 @@
 
 ## 🗃️ Страницы&#x20;
 
-* [Сервер](osnova/server.md)
-* [📱  Соцсети](stranicy/sot-seti.md)
+* [Сервер](stranicy/server.md)
+* [📱  Соцсети](stranicy/socseti.md)
 * [📰 Форумы ](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
 * [Моды И Сборки ](stranicy/mody-i-sborki.md)
-* [Музыка кампании](stranicy/maya-muzyka.md)
+* [Музыка кампании](stranicy/muzyka-kampanii.md)
 
 ## 🗃️ Крупные Проекты&#x20;
 
@@ -25,4 +25,4 @@
 
 ## 🗄️ Команды
 
-* [🤖 Команды Бота](komandy-bota/README.md)
+* [🤖 Команды Бота](komandy/komandy-bota.md)
