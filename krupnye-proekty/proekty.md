@@ -30,3 +30,11 @@ layout:
 {% embed url="https://t.me/SashaWorldbot" %}
 
 {% embed url="https://t.me/PremiumBot" %}
+
+&#x20;                                                                                        <mark style="color:blue;">**discord**</mark>
+
+{% embed url="https://discord.com/developers/applications" %}
+
+{% embed url="https://discord.com/channels/1220285986504839208/1235302799185674290" %}
+
+{% embed url="https://discord.com/developers/active-developer" %}
