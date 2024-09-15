@@ -23,6 +23,8 @@ layout:
 
 {% embed url="https://www.youtube.com/@Dragan208" %}
 
+{% embed url="https://discord.com/channels/1220285986504839208/1235302799185674290" %}
+
 {% embed url="https://vk.com/sasha_catpor" %}
 
 {% embed url="https://boosty.to/draganvolk" %}
