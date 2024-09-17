@@ -29,7 +29,7 @@ layout:
 {% endtab %}
 
 {% tab title="Донат - Поддержка" %}
-{% embed url="https://yoomoney.ru/transfer/quickpay?requestId=353531323131373835325f31393535326161363964316236303462346532323061616536366662343764393561633463633031" %}
+{% embed url="https://yoomoney.ru/prepaid?from=main-page" %}
 {% endtab %}
 {% endtabs %}
 
