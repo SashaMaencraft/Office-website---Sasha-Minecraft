@@ -65,13 +65,13 @@ layout:
 Как обойти замедление YouTube - Способ 2
 
 ( 📱Вот мои випины для телефона на Play Market:
-1. https://play.google.com/store/apps/details?id=free.vpn.proxy.secure
-2. https://play.google.com/store/apps/details?id=com.now.vpn )
+1. https://play.google.com/store/apps/details?id=free.vpn.proxy.secure - (Google Play - 1.09.2024 Года)
+2. https://play.google.com/store/apps/details?id=com.now.vpn - (Google Play - 1.09.2024 Года)
 
 ( 💻 А вот для компьютера расширение
-1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap
-2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio )
-3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi?snuoi
+1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap - (Наш Сайт - 1.09.2024 Года)
+2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio (Расширение - Года)
+3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi?snuoi (Расширение - 18.09.2024 Года)
 
 И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
 ```
