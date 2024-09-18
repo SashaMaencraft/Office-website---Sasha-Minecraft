@@ -57,21 +57,15 @@ layout:
 
 <summary>Модары</summary>
 
-Се наши - Модары - Проекта
+Се наши - {Модары} - Проекта
 
 </details>
 
 {% tabs %}
 {% tab title="Модер - Даня - Помощник {Владельца}" %}
-
+Даных Пока Нет - Мы ждём одобрение чтобы его данные вести на сайт
 {% endtab %}
 {% endtabs %}
-
-<div align="center" data-full-width="true">
-
-<figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>
-
-</div>
 
 
 
