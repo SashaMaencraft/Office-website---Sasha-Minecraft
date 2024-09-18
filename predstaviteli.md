@@ -19,6 +19,10 @@ layout:
 
 # 🧑‍💻 Представители&#x20;
 
+
+
+***
+
 <details>
 
 <summary>Александр Александрович Канстантинавичь</summary>
@@ -48,3 +52,23 @@ layout:
 </div>
 
 ***
+
+<details>
+
+<summary>Модары</summary>
+
+
+
+</details>
+
+{% tabs %}
+{% tab title="Модер - Даня - Помощник {Владельца}" %}
+
+{% endtab %}
+{% endtabs %}
+
+<div align="center" data-full-width="true">
+
+<figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>
+
+</div>

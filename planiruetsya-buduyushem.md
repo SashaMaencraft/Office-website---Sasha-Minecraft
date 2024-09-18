@@ -1,6 +1,6 @@
 ---
 icon: unity
-cover: .gitbook/assets/i (1).webp
+cover: .gitbook/assets/i (1) (1).webp
 coverY: 0
 layout:
   cover:

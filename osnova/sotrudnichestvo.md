@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/i.webp
+cover: ../.gitbook/assets/i (1).webp
 coverY: 0
 layout:
   cover:
