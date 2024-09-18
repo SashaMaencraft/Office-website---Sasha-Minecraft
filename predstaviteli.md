@@ -43,36 +43,37 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-
-
-<div align="center">
-
 <figure><img src=".gitbook/assets/h.png" alt="" width="256"><figcaption></figcaption></figure>
 
-</div>
+
 
 ***
+
+
 
 <details>
 
 <summary>Модары</summary>
 
-Се наши - Модары - Проекта
+Се наши - {Модары} - Проекта
+
+</details>
+
+***
+
+<details>
+
+<summary>Модер - Даня - Помощник {Владельца}</summary>
+
+Даных Пока Нет - Мы ждём одобрение чтобы его данные вести на сайт
 
 </details>
 
 {% tabs %}
-{% tab title="Модер - Даня - Помощник {Владельца}" %}
-
+{% tab title="Модер - Даня" %}
+Примерные даные появяса {10 Октября - 16 Октября}
 {% endtab %}
 {% endtabs %}
 
-<div align="center" data-full-width="true">
-
 <figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>
 
-</div>
-
-
-
-***
