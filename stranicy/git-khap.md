@@ -71,6 +71,7 @@ layout:
 ( 💻 А вот для компьютера расширение
 1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap
 2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio )
+3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi?snuoi
 
 И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
 ```
