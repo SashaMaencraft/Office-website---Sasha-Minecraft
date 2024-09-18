@@ -27,7 +27,7 @@ layout:
 
 ***
 
-&#x20;                                                       Обход лагов и замедление - YouTube
+&#x20;                                                       Обход лагов и замедление - YouTube -  (1.09.2024 Года)
 
 {% embed url="https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1" %}
 
@@ -36,10 +36,6 @@ layout:
 
 
 <figure><img src="../.gitbook/assets/Безымянный2.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;                                                                                         <mark style="color:purple;">**Готова**</mark>
-
-
 
 &#x20;                                                                                **Инструкция**&#x20;
 
