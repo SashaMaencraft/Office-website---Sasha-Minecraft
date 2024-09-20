@@ -21,3 +21,4 @@ layout:
 
 {% embed url="https://proxy.easydonate.ru/" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/reps" %}
