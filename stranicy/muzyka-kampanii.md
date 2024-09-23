@@ -6,7 +6,7 @@ coverY: 0
 
 # Музыка кампании
 
-Наша Музыка - [https://rave.bz/tnNIsa](https://rave.bz/tnNIsa)
+Наша Музыка - [https://rave.bz/PPVkhw](https://rave.bz/PPVkhw)
 
 
 
