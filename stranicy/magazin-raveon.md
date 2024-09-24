@@ -48,4 +48,13 @@ layout:
 {% tab title="Писать сюда" %}
 {% embed url="https://t.me/RussianMinecraft2" %}
 {% endtab %}
+
+{% tab title="Оплата и Варианты" %}
+{% embed url="https://yoomoney.ru/prepaid?from=main-page" %}
+
+{% embed url="https://www.tbank.ru/rm/kurilenko.aleksandr89/oqgJN46834/" %}
+
+{% embed url="https://www.sberbank.com/sms/pbpn?requisiteNumber=79210413617" %}
+{% endtab %}
 {% endtabs %}
+
