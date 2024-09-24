@@ -20,8 +20,6 @@ layout:
 
 # Магазин - Raveon
 
-***
-
 Магазин Raveon рад предложить вам услугу по размещению вашего музыкального релиза на самых популярных цифровых платформах, таких как Apple Music, Яндекс.Музыка, YouTube Music и VK Музыка. Мы готовы взять на себя все заботы, связанные с публикацией вашего контента, чтобы вы могли сосредоточиться на творчестве.
 
 В нашем предложении вы найдете:
@@ -53,8 +51,6 @@ layout:
 {% embed url="https://yoomoney.ru/prepaid?from=main-page" %}
 
 {% embed url="https://www.tbank.ru/rm/kurilenko.aleksandr89/oqgJN46834/" %}
-
-{% embed url="https://www.sberbank.com/sms/pbpn?requisiteNumber=79210413617" %}
 {% endtab %}
 {% endtabs %}
 
