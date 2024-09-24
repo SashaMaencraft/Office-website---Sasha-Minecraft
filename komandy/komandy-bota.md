@@ -21,8 +21,7 @@ layout:
 
 &#x20;                                                                     <mark style="color:green;">**Команды**</mark>
 
-```
-/start - Запускает Бота
+<pre><code>/start - Запускает Бота
 /hellp - Помощь
 /project - Наш проект и также + и - нашего проекта Telegram бота
 /support - Прямая Поддержка
@@ -33,4 +32,5 @@ layout:
 /privacypolicy - Политика конфиденциальности
 /hi - Привет - Также можно написать и по русски - привет
 /oooh - Открывает сайт с Потверждением
-```
+<strong>/raveon - Сделаем - Raveon
+</strong></code></pre>
