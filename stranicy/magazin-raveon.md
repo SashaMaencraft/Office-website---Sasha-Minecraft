@@ -38,6 +38,8 @@ layout:
 
 ***
 
+<figure><img src="../.gitbook/assets/Untitled Project (1).jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Untitled Project.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
