@@ -61,6 +61,8 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/muzyka-kampanii" %}
 
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/magazin-raveon" %}
+
 &#x20;                                                              🗃️ **Крупные Проекты**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
