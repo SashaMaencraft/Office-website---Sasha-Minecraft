@@ -43,3 +43,9 @@ layout:
 <figure><img src="../.gitbook/assets/Untitled Project.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
+
+{% tabs %}
+{% tab title="Писать сюда" %}
+{% embed url="https://t.me/RussianMinecraft2" %}
+{% endtab %}
+{% endtabs %}
