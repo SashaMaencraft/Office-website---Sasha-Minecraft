@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Магазин - Raveon
+# Сделаем - Raveon
 
 Магазин Raveon рад предложить вам услугу по размещению вашего музыкального релиза на самых популярных цифровых платформах, таких как Apple Music, Яндекс.Музыка, YouTube Music и VK Музыка. Мы готовы взять на себя все заботы, связанные с публикацией вашего контента, чтобы вы могли сосредоточиться на творчестве.
 
@@ -41,7 +41,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/Untitled Project (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Untitled Project.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled Project (3).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
