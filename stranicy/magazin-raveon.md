@@ -1,5 +1,6 @@
 ---
 icon: ring
+description: ДЕНЬГИ ВОЗВРАТУ НЕ ПРИНАДЛЕЖАТ
 cover: ../.gitbook/assets/2024-09-24_16-35-42.png
 coverY: 0
 layout:
