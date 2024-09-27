@@ -1,6 +1,6 @@
 ---
 icon: ring
-description: ДЕНЬГИ ВОЗВРАТУ НЕ ПРИНАДЛЕЖАТ
+description: ДЕНЬГИ ВОЗВРАТУ НЕ ПРИНАДЛЕЖАТ, ЕСЛИ НЕ ПОЛУЧАЕТСЯ БОЛЕ 3 - 6 РАЗ ОПУБЛИКОВАТЬ
 cover: ../.gitbook/assets/2024-09-24_16-35-42.png
 coverY: 0
 layout:
@@ -42,6 +42,8 @@ layout:
 <figure><img src="../.gitbook/assets/Untitled Project (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Untitled Project (3).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/photo_2024-09-27_18-56-04.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
