@@ -23,33 +23,29 @@ layout:
 
 {% embed url="https://github.com/SashaMaencraft/Office-website---Sasha-Minecraft" %}
 
-
-
 ***
 
-&#x20;                                                       Обход лагов и замедление - YouTube -  (1.09.2024 Года)
+Обход лагов и замедление - YouTube - (1.09.2024 Года)
 
 {% embed url="https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1" %}
 
 <figure><img src="../.gitbook/assets/Безымянный.png" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/Безымянный2.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;                                                                                **Инструкция**&#x20;
+**Инструкция**
 
 <details>
 
 <summary>Вот для компа, я себе такое тоже сделал 👇🏻</summary>
 
-Оживляем YouTube — добрые люди уже выложили&#x20;
+Оживляем YouTube — добрые люди уже выложили
 
 (https://github.com/ValdikSS/GoodbyeDPI/issues/378) гайд.
 
-• Скачиваем GoodbyeDPI (https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1) с GitHub;&#x20;
+• Скачиваем GoodbyeDPI (https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1) с GitHub;
 
-• Запускаем файл 1\_russia\_blacklist.cmd. Если выбивает ошибку, запускаем от имени администратора (для этого надо правой кнопкой мыши нажать на файл,там будет плашка), либо жмём «Подробнее» — «Выполнить»;&#x20;
+• Запускаем файл 1\_russia\_blacklist.cmd. Если выбивает ошибку, запускаем от имени администратора (для этого надо правой кнопкой мыши нажать на файл,там будет плашка), либо жмём «Подробнее» — «Выполнить»;
 
 • Теперь в браузере нужно вырубить Kyber – пишем в адресной строке chrome://flags, находим и вырубаем. • Наслаждаемся победой.
 
@@ -67,8 +63,9 @@ layout:
 ( 💻 А вот для компьютера расширение
 1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap - (Наш Сайт - 1.09.2024 Года)
 2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio (Расширение - 1.09.2024 Года)
-3. https://chromewebstore.google.com/detail/vpn-ultimate-vpn-для-разб/epeigjgefhajkiiallmfblgglmdbhfab - 18.09.2024 Года)
-3.3 https://chromewebstore.google.com/detail/adblock-–-блокировка-рекл/gighmmpiobklfepjocnamgkkbiglidom (Расширение - 18.09.2024 Года)
+3. https://chromewebstore.google.com/detail/vpn-ultimate-vpn-для-разб/epeigjgefhajkiiallmfblgglmdbhfab - (Расширение- 18.09.2024 Года)
+3.3 https://chromewebstore.google.com/detail/adblock-–-блокировка-рекл/gighmmpiobklfepjocnamgkkbiglidom - (Расширение - 18.09.2024 Года)
+4. https://chromewebstore.google.com/detail/adguard-антибаннер/bgnkhhnnamicmpeenaelnjfhikgbkllg?) - (Расширение - 18.09.2024 Года)
 
 И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
 ```
@@ -77,9 +74,8 @@ layout:
 
 ***
 
-&#x20;                                                                <mark style="color:yellow;">**Ска**</mark><mark style="color:green;">**чать**</mark>** **<mark style="color:orange;">**янд**</mark><mark style="color:purple;">**екс**</mark> <mark style="color:red;">**Бра**</mark><mark style="color:blue;">**узер**</mark>
+<mark style="color:yellow;">**Ска**</mark><mark style="color:green;">**чать**</mark>\*\* \*\*<mark style="color:orange;">**янд**</mark><mark style="color:purple;">**екс**</mark> <mark style="color:red;">**Бра**</mark><mark style="color:blue;">**узер**</mark>
 
 {% embed url="https://yandex.ru/project/browser/brand/s/brw_ya_01?utm_term=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&banerid=0600005800&utm_campaign=search_brand_ru_2%7C55140847&utm_medium=search&from=direct_serp&etext=2202.q7pNZ20tBoBzKu2c84I-gT-_5vrLzsfpDjYCnURAQDciQALbjfXPFQR-pwpqLXV_aXBlenhtZG1na2FsaGl4Yg.b1c48569b6fa1d7f4e577a94b4b961828ce12d2e&yclid=7873275566224048127&utm_content=5488537567%7C16466185603&utm_source=yandex" %}
 
 ***
-
