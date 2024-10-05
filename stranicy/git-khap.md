@@ -63,7 +63,7 @@ layout:
 ( 💻 А вот для компьютера расширение
 1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap - (Наш Сайт - 1.09.2024 Года)
 2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio (Расширение - 1.09.2024 Года)
-3. https://chromewebstore.google.com/detail/vpn-ultimate-vpn-для-разб/epeigjgefhajkiiallmfblgglmdbhfab - (Расширение- 18.09.2024 Года)
+3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi - (Расширение- 18.09.2024 Года)
 3.3 https://chromewebstore.google.com/detail/adblock-–-блокировка-рекл/gighmmpiobklfepjocnamgkkbiglidom - (Расширение - 18.09.2024 Года)
 4. https://chromewebstore.google.com/detail/adguard-антибаннер/bgnkhhnnamicmpeenaelnjfhikgbkllg?) - (Расширение - 18.09.2024 Года)
 
