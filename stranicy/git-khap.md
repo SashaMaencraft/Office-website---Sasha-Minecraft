@@ -27,6 +27,8 @@ layout:
 
 Обход лагов и замедление - YouTube - (1.09.2024 Года)
 
+{% embed url="https://habr.com/ru/articles/849082/" %}
+
 {% embed url="https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.3rc1" %}
 
 <figure><img src="../.gitbook/assets/Безымянный.png" alt=""><figcaption></figcaption></figure>
