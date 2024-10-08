@@ -17,9 +17,7 @@ layout:
     visible: true
 ---
 
-# 🧑‍💻 Представители&#x20;
-
-
+# 🧑‍💻 Представители
 
 ***
 
@@ -27,7 +25,7 @@ layout:
 
 <summary>Александр Александрович Канстантинавичь</summary>
 
-Создатель этого сайта и также крупных проектов&#x20;
+Создатель этого сайта и также крупных проектов
 
 Также есть Официальный Бот и Сайты
 
@@ -35,7 +33,7 @@ layout:
 
 {% tabs %}
 {% tab title="Официальный - Бот" %}
-{% embed url="https://t.me/SashaWorldbot" %}
+{% embed url="https://t.me/DragonCorpbot" %}
 {% endtab %}
 
 {% tab title="ЮМoney" %}
@@ -45,11 +43,7 @@ layout:
 
 <figure><img src=".gitbook/assets/h.png" alt="" width="256"><figcaption></figcaption></figure>
 
-
-
 ***
-
-
 
 <details>
 
@@ -76,7 +70,5 @@ layout:
 {% endtabs %}
 
 ***
-
-
 
 <figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>

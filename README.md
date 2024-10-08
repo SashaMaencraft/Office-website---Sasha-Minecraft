@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/i-fotor-bg-remover-20240717112434.png
-coverY: 108.67991169977924
+cover: .gitbook/assets/photo_2024-10-08_14-50-22.jpg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -21,10 +21,6 @@ layout:
 
 {% tabs %}
 {% tab title="Се вапросы сюда?" %}
-
-
-
-
 На почту - drakon.karol@yandex.ru
 {% endtab %}
 

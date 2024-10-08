@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 💻 Проекты&#x20;
+# 💻 Проекты
 
 {% embed url="https://proxy.easydonate.ru/" %}
 
@@ -25,13 +25,13 @@ layout:
 
 {% embed url="https://t.me/Dragan2081" %}
 
-&#x20;                                                                                     <mark style="color:red;">**БОТЫ**</mark>
+<mark style="color:red;">**БОТЫ**</mark>
 
-{% embed url="https://t.me/SashaWorldbot" %}
+{% embed url="https://t.me/DragonCorpbot" %}
 
 {% embed url="https://t.me/PremiumBot" %}
 
-&#x20;                                                                                        <mark style="color:blue;">**discord**</mark>
+<mark style="color:blue;">**discord**</mark>
 
 {% embed url="https://discord.com/developers/applications" %}
 
