@@ -17,15 +17,23 @@ layout:
     visible: true
 ---
 
-# Главная Страница  Сайта
+# Главная Страница Сайта
 
 {% tabs %}
 {% tab title="Се вапросы сюда?" %}
+
+
+
+
+
+
 На почту - drakon.karol@yandex.ru
 {% endtab %}
 
 {% tab title="Minecraft продажа и влог" %}
 {% embed url="https://vk.com/minecraftersteve" %}
+
+{% embed url="https://vk.com/club227751893" %}
 {% endtab %}
 
 {% tab title="Донат - Поддержка" %}
@@ -39,7 +47,7 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
 
-&#x20;                                                                   🗂️ **Основа**
+🗂️ **Основа**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-nashego-proekta" %}
 
@@ -47,7 +55,7 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
 
-&#x20;                                                                 🗃️ **Страницы**
+🗃️ **Страницы**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/server" %}
 
@@ -63,10 +71,10 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/magazin-raveon" %}
 
-&#x20;                                                              🗃️ **Крупные Проекты**
+🗃️ **Крупные Проекты**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/krupnye-proekty/proekty" %}
 
-## &#x20;                                   🤖Команды Бота
+## 🤖Команды Бота
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/komandy/komandy-bota" %}

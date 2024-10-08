@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# 📱  Соцсети
-
-
+# 📱 Соцсети
 
 {% embed url="https://www.youtube.com/@Dragan208" %}
+
+{% embed url="https://vk.com/club227751893" %}
 
 {% embed url="https://discord.com/channels/1220285986504839208/1235302799185674290" %}
 
