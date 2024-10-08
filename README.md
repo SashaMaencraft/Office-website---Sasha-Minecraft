@@ -37,7 +37,7 @@ layout:
 {% endtab %}
 
 {% tab title="Наш ВК - DragonCorp" %}
-{% embed url="https://vk.com/club227751893" %}
+{% embed url="https://vk.com/violetdragonempire" %}
 {% endtab %}
 {% endtabs %}
 
