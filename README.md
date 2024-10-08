@@ -25,19 +25,19 @@ layout:
 
 
 
-
-
 На почту - drakon.karol@yandex.ru
 {% endtab %}
 
 {% tab title="Minecraft продажа и влог" %}
 {% embed url="https://vk.com/minecraftersteve" %}
-
-{% embed url="https://vk.com/club227751893" %}
 {% endtab %}
 
 {% tab title="Донат - Поддержка" %}
 {% embed url="https://yoomoney.ru/prepaid?from=main-page" %}
+{% endtab %}
+
+{% tab title="Наш ВК - DragonCorp" %}
+{% embed url="https://vk.com/club227751893" %}
 {% endtab %}
 {% endtabs %}
 
