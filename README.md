@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/photo_2024-10-08_14-50-22.jpg
+cover: .gitbook/assets/photo_2024-10-08_14-50-22 (1).jpg
 coverY: 0
 layout:
   cover:
