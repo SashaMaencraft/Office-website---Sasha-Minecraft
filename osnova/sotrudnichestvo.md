@@ -17,6 +17,6 @@ layout:
     visible: true
 ---
 
-# ✍️ Сотрудничество&#x20;
+# ✍️ Сотрудничество
 
-&#x20;                                                                    <mark style="color:blue;">**Времена пока не скем**</mark>&#x20;
+{% embed url="https://studio.raveon.net/ru/catalog" %}
