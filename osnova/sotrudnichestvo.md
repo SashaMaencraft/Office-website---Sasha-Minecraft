@@ -19,4 +19,4 @@ layout:
 
 # ✍️ Сотрудничество
 
-{% embed url="https://studio.raveon.net/ru/catalog" %}
+{% embed url="https://studio.raveon.net/ru" %}
