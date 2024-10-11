@@ -64,13 +64,29 @@ layout:
 </details>
 
 {% tabs %}
-{% tab title="Модер - Даня" %}
+{% tab title="Модер - Даня Связь ТГ" %}
 {% embed url="https://t.me/gyli44" %}
 {% endtab %}
 {% endtabs %}
 
 ***
 
+<details>
 
+<summary>Модер</summary>
+
+Кирилл - Модерирует ВК группу&#x20;
+
+</details>
+
+{% tabs %}
+{% tab title="Модер Связь ВК" %}
+{% embed url="https://vk.com/id806007487" %}
+{% endtab %}
+{% endtabs %}
+
+<figure><img src=".gitbook/assets/0e8rP0kTtMo.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+***
 
 <figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>
