@@ -59,7 +59,7 @@ layout:
 
 <summary>Модер - Даня - Помощник {Владельца}</summary>
 
-Данил Владимирович - Помощник Владельца и модератор бота
+Данил Владимирович - Помощник и модератор бота
 
 </details>
 
@@ -70,5 +70,7 @@ layout:
 {% endtabs %}
 
 ***
+
+
 
 <figure><img src=".gitbook/assets/i.webp" alt="" width="241"><figcaption></figcaption></figure>
