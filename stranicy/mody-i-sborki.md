@@ -22,11 +22,11 @@ layout:
 
 <mark style="color:green;">**Мая сборка для снёмки ролика**</mark> <mark style="color:green;">{</mark><mark style="color:orange;">1</mark><mark style="color:blue;">.</mark><mark style="color:orange;">12</mark><mark style="color:purple;">.</mark><mark style="color:orange;">2</mark><mark style="color:green;">}</mark>
 
-{% embed url="https://disk.yandex.ru/d/WFh0yhop5rvIkA" %}
+{% embed url="https://minecrafters-organization.gitbook.io/mod-big-update/maya-sborka-dlya-snyomki-rolika-1.12.2" %}
 
 <mark style="color:orange;">**Новогодние обновлении**</mark> <mark style="color:green;">{</mark><mark style="color:red;">1</mark><mark style="color:blue;">.</mark><mark style="color:red;">17</mark><mark style="color:purple;">.</mark><mark style="color:red;">1</mark><mark style="color:green;">}</mark>
 
-{% embed url="https://disk.yandex.ru/d/YBFNM1sUKLYJsQ" %}
+{% embed url="https://minecrafters-organization.gitbook.io/mod-big-update/novogodnie-obnovlenii-1.17.1" %}
 
 ## <mark style="color:purple;">Мод Forge</mark> <mark style="color:green;">{</mark><mark style="color:yellow;">1</mark><mark style="color:blue;">.</mark><mark style="color:yellow;">20</mark><mark style="color:purple;">.</mark><mark style="color:yellow;">1</mark><mark style="color:green;">}</mark>
 
