@@ -61,11 +61,13 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap" %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/mody-i-sborki" %}
+## 🔗 Музыкальные Проекты и сборки
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/muzyka-kampanii" %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/mody-i-sborki" %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/magazin-raveon" %}
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/muzyka-kampanii" %}
+
+{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/sdelaem-raveon" %}
 
 🗃️ **Крупные Проекты**
 
