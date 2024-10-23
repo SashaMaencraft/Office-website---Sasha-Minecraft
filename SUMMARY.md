@@ -1,16 +1,12 @@
 # Table of contents
 
-* [Page](README.md)
-  * [Page 1](page/page-1.md)
-* [Главная Страница Сайта](<README (1).md>)
+* [Главная Страница Сайта](README.md)
 * [🧑‍💻 Представители](predstaviteli.md)
 * [Планируется будующем](planiruetsya-buduyushem.md)
-
-## 🗂️ Основа
-
-* [✍️ Сотрудничество](osnova/sotrudnichestvo.md)
-* [📕 Правило нашего проекта](osnova/pravilo-nashego-proekta.md)
-* [Правило сервера](osnova/pravilo-servera.md)
+* [🗂️ Основа](osnova/README.md)
+  * [✍️ Сотрудничество](osnova/sotrudnichestvo.md)
+  * [📕 Правило нашего проекта](osnova/pravilo-nashego-proekta.md)
+  * [Правило сервера](osnova/pravilo-servera.md)
 
 ## 🗃️ Страницы
 
