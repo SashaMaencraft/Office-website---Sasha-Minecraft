@@ -1,8 +1,24 @@
 ---
+icon: ring
 description: >-
   ДЕНЬГИ ВОЗВРАТУ НЕ ПРИНАДЛЕЖАТ, ЕСЛИ НЕ ПОЛУЧАЕТСЯ БОЛЕ 3 - 6 РАЗ ОПУБЛИКОВАТЬ
   <-- МЫ ВЕРНЁМ ДЕНЬГИ
-icon: ring
+cover: ../.gitbook/assets/2024-09-24_16-35-42.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Сделаем - Raveon
