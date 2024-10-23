@@ -14,9 +14,12 @@
 * [📱 Соцсети](stranicy/socseti.md)
 * [📰 Форумы](stranicy/forumy.md)
 * [📌 Гит Хап](stranicy/git-khap.md)
-* [Моды И Сборки](stranicy/mody-i-sborki.md)
-* [Музыка кампании](stranicy/muzyka-kampanii.md)
-* [Сделаем - Raveon](stranicy/sdelaem-raveon.md)
+
+## 🗃️ Страницы
+
+* [Моды И Сборки](stranicy-1/mody-i-sborki.md)
+* [Музыка кампании](stranicy-1/muzyka-kampanii.md)
+* [Сделаем - Raveon](stranicy-1/sdelaem-raveon.md)
 
 ## 🗃️ Крупные Проекты
 
@@ -25,5 +28,3 @@
 ## 🗄️ Команды
 
 * [🤖 Команды Бота](komandy/komandy-bota.md)
-
-## Group 1
