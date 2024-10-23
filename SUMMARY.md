@@ -7,24 +7,16 @@
   * [✍️ Сотрудничество](osnova/sotrudnichestvo.md)
   * [📕 Правило нашего проекта](osnova/pravilo-nashego-proekta.md)
   * [Правило сервера](osnova/pravilo-servera.md)
-
-## 🗃️ Страницы
-
-* [Сервер](stranicy/server.md)
-* [📱 Соцсети](stranicy/socseti.md)
-* [📰 Форумы](stranicy/forumy.md)
-* [📌 Гит Хап](stranicy/git-khap.md)
-
-## 🗃️ Страницы
-
-* [Моды И Сборки](stranicy-1/mody-i-sborki.md)
-* [Музыка кампании](stranicy-1/muzyka-kampanii.md)
-* [Сделаем - Raveon](stranicy-1/sdelaem-raveon.md)
-
-## 🗃️ Крупные Проекты
-
-* [💻 Проекты](krupnye-proekty/proekty.md)
-
-## 🗄️ Команды
-
-* [🤖 Команды Бота](komandy/komandy-bota.md)
+* [🗃️ Страницы](stranicy/README.md)
+  * [Сервер](stranicy/server.md)
+  * [📰 Форумы](stranicy/forumy.md)
+  * [📌 Гит Хап](stranicy/git-khap.md)
+  * [📱 Соцсети](stranicy/socseti.md)
+* [Музыкальные Проекты и сборки](muzykalnye-proekty-i-sborki/README.md)
+  * [Моды И Сборки](muzykalnye-proekty-i-sborki/mody-i-sborki.md)
+  * [Музыка кампании](muzykalnye-proekty-i-sborki/muzyka-kampanii.md)
+  * [Сделаем - Raveon](muzykalnye-proekty-i-sborki/sdelaem-raveon.md)
+* [Крупные Проекты](krupnye-proekty/README.md)
+  * [💻 Проекты](krupnye-proekty/proekty.md)
+* [🗄️ Команды](komandy/README.md)
+  * [🤖 Команды Бота](komandy/komandy-bota.md)
