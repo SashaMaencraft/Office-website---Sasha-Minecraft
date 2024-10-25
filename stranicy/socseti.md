@@ -25,8 +25,6 @@ layout:
 
 {% embed url="https://vk.com/violetdragonempire" %}
 
-{% embed url="https://vk.com/sasha_catpor" %}
-
 {% embed url="https://boosty.to/draganvolk" %}
 
 {% embed url="https://steamcommunity.com/profiles/76561199388732962/" %}
