@@ -2,11 +2,12 @@
 
 * [Главная Страница Сайта](README.md)
 * [🧑‍💻 Представители](predstaviteli.md)
-* [Планируется будующем](planiruetsya-buduyushem.md)
+* [О НАС](o-nas.md)
 * [🗂️ Основа](osnova/README.md)
   * [✍️ Сотрудничество](osnova/sotrudnichestvo.md)
   * [📕 Правило нашего проекта](osnova/pravilo-nashego-proekta.md)
   * [Правило сервера](osnova/pravilo-servera.md)
+  * [Планируется будующем](osnova/planiruetsya-buduyushem.md)
 * [🗃️ Страницы](stranicy/README.md)
   * [Сервер](stranicy/server.md)
   * [📰 Форумы](stranicy/forumy.md)
