@@ -16,7 +16,7 @@ DragonCorp стремится к тому, чтобы обеспечить ми�
 
 ***
 
-* Официальный веб-сайт: [https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/o-nas](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/o-nas)
+* Официальный веб-сайт: [https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft)
 * Электронная почта: drakon.karol@yandex.ru
 
 Свяжитесь с нами, чтобы узнать больше о нас, наших продуктах и услугах, а также о возможностях сотрудничества. Мы всегда открыты к диалогу и готовы помочь вам в решении любых вопросов и задач. Спасибо, что выбрали DragonCorp!
