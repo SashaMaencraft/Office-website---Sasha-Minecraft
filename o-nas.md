@@ -1,7 +1,6 @@
 ---
 icon: square-user
-cover: >-
-  https://avatars.mds.yandex.net/i?id=2c938e6cf275cfca89c33cf2b329bec0_l-8209814-images-thumbs&n=13
+cover: .gitbook/assets/218812.jpg
 coverY: 0
 layout:
   cover:
