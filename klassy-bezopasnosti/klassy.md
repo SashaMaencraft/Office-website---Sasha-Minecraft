@@ -1,3 +1,7 @@
+---
+icon: blueberries
+---
+
 # Классы
 
 
