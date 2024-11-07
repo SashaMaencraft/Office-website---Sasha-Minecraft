@@ -23,6 +23,7 @@
   * [Класс Таинственный (Keter - DC)](klassy-bezopasnosti/klass-tainstvennyi-keter-dc.md)
   * [Класс Опасный (Euclid - DC)](klassy-bezopasnosti/klass-opasnyi-euclid-dc.md)
   * [Класс Безвредный (Neutralized - DC)](klassy-bezopasnosti/klass-bezvrednyi-neutralized-dc.md)
+  * [Page](klassy-bezopasnosti/page.md)
 * [Крупные Проекты](krupnye-proekty/README.md)
   * [💻 Проекты](krupnye-proekty/proekty.md)
 * [🗄️ Команды](komandy/README.md)
