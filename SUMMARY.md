@@ -19,7 +19,6 @@
   * [Сделаем - Raveon](muzykalnye-proekty-i-sborki/sdelaem-raveon.md)
 * [Классы Безопасности](klassy-bezopasnosti/README.md)
   * [Клас D](klassy-bezopasnosti/klas-d.md)
-  * [Класс Безопасный (Safe - DC)](klassy-bezopasnosti/klass-bezopasnyi-safe-dc.md)
   * [Класс Аномальный (Anomalous - DC)](klassy-bezopasnosti/klass-anomalnyi-anomalous-dc.md)
   * [Класс Таинственный (Keter - DC)](klassy-bezopasnosti/klass-tainstvennyi-keter-dc.md)
   * [Класс Опасный (Euclid - DC)](klassy-bezopasnosti/klass-opasnyi-euclid-dc.md)
