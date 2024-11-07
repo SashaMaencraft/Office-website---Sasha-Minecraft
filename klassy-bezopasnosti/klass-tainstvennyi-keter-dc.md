@@ -1,9 +1,11 @@
 ---
+icon: seal-exclamation
 description: >-
   Определение: Объекты, представляющие самую серьёзную угрозу для человечества.
   Их свойства не до конца изучены, и они могут с лёгкостью уничтожить всех живых
   существ.
-icon: seal-exclamation
+cover: ../.gitbook/assets/scp-logo-safe-17.png
+coverY: 0
 ---
 
 # Класс Таинственный (Keter - DC)
