@@ -1,6 +1,6 @@
 ---
 icon: first-order
-cover: ../.gitbook/assets/2024-08-30_18-40-20.png
+cover: ../.gitbook/assets/Снимок экрана 2024-11-09 164317 (3).png
 coverY: 0
 layout:
   cover:
