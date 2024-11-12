@@ -44,7 +44,7 @@ layout:
 ***
 
 ```
-Как обойти замедление YouTube - Способ 2
+Как обойти замедление YouTube и discord - Способ 2
 
 ( 📱Вот мои випины для телефона на Play Market:
 1. https://play.google.com/store/apps/details?id=free.vpn.proxy.secure - (Google Play - 1.09.2024 Года)
