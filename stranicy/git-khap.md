@@ -60,8 +60,6 @@ layout:
 И ещё один комментарий YouTube не заблокировали пока что, его замедляют.
 ```
 
-{% embed url="https://youtu.be/vCut-pVkmFM" %}
-
 ***
 
 <mark style="color:yellow;">**Ска**</mark><mark style="color:green;">**чать**</mark>\*\* \*\*<mark style="color:orange;">**янд**</mark><mark style="color:purple;">**екс**</mark> <mark style="color:red;">**Бра**</mark><mark style="color:blue;">**узер**</mark>
