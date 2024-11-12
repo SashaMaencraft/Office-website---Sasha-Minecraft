@@ -51,9 +51,9 @@ layout:
 2. https://play.google.com/store/apps/details?id=com.now.vpn - (Google Play - 1.09.2024 Года)
 
 ( 💻 А вот для компьютера расширение
-1. https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap - (Наш Сайт - 1.09.2024 Года)
-2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio (Расширение - 1.09.2024 Года)
-3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi - (Расширение- 18.09.2024 Года)
+1. Обход discord  https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap (Расширение - 12.11.2024 Года)
+2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio - (Расширение - 1.09.2024 Года)
+3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi - (Расширение - 18.09.2024 Года)
 3.3 https://chromewebstore.google.com/detail/adblock-–-блокировка-рекл/gighmmpiobklfepjocnamgkkbiglidom - (Расширение - 18.09.2024 Года)
 4. https://chromewebstore.google.com/detail/adguard-антибаннер/bgnkhhnnamicmpeenaelnjfhikgbkllg?) - (Расширение - 18.09.2024 Года)
 
