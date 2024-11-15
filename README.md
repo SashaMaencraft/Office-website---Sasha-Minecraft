@@ -22,7 +22,7 @@ layout:
 
 
 {% hint style="success" %}
-Сайт Поверженный Администраций Правительства и [DragonCorp](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft)\
+Сайт Подтвержденный  Администраций Правительства и [DragonCorp](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft)\
 
 {% endhint %}
 
