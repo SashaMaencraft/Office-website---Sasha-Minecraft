@@ -19,6 +19,13 @@ layout:
 
 # Главная Страница Сайта
 
+
+
+{% hint style="success" %}
+Сайт Поверженный Администраций Правительства и [DragonCorp](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft)\
+
+{% endhint %}
+
 {% tabs %}
 {% tab title="Се вапросы сюда?" %}
 На почту - drakon.karol@yandex.ru
