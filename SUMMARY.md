@@ -18,7 +18,7 @@
   * [Музыка кампании](muzykalnye-proekty-i-sborki/muzyka-kampanii.md)
   * [Сделаем - Raveon](muzykalnye-proekty-i-sborki/sdelaem-raveon.md)
 * [Классы Безопасности](klassy-bezopasnosti/README.md)
-  * [О5](klassy-bezopasnosti/o5.md)
+  * [DXC-C](klassy-bezopasnosti/dxc-c.md)
   * [Клас D](klassy-bezopasnosti/klas-d.md)
   * [Класс Аномальный (Anomalous - DC)](klassy-bezopasnosti/klass-anomalnyi-anomalous-dc.md)
   * [Класс Таинственный (Keter - DC)](klassy-bezopasnosti/klass-tainstvennyi-keter-dc.md)
