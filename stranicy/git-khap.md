@@ -35,7 +35,7 @@ layout:
 
 Оживляем discord — добрые люди уже выложили
 
-([https://github.com/ValdikSS/GoodbyeDPI/issues/378](https://disk.yandex.ru/d/\_wGrgKHeworkZQ)) гайд.;
+([https://github.com/ValdikSS/GoodbyeDPI/issues/378](https://disk.yandex.ru/d/_wGrgKHeworkZQ)) гайд.;
 
 • Запускаем файл 1\_russia\_blacklist.cmd. Если выбивает ошибку, запускаем от имени администратора (для этого надо правой кнопкой мыши нажать на файл,там будет плашка), либо жмём «Подробнее» — «Выполнить»;
 
@@ -53,7 +53,7 @@ layout:
 ( 💻 А вот для компьютера расширение
 1. Обход discord  https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/git-khap (Расширение - 12.11.2024 Года)
 2. https://chromewebstore.google.com/detail/hola-vpn-your-website-unb/gkojfkhlekighikafcpjkiklfbnlmeio - (Расширение - 1.09.2024 Года)
-3. https://chromewebstore.google.com/detail/vpn-для-youtube/bojaonpikbbgeijomodbogeiebkckkoi - (Расширение - 18.09.2024 Года)
+3. https://chromewebstore.google.com/detail/vpn-freepro-бесплатный-vp/bibjcjfmgapbfoljiojpipaooddpkpai?hl=it) - (Расширение - 18.09.2024 Года)
 3.3 https://chromewebstore.google.com/detail/adblock-–-блокировка-рекл/gighmmpiobklfepjocnamgkkbiglidom - (Расширение - 18.09.2024 Года)
 4. https://chromewebstore.google.com/detail/adguard-антибаннер/bgnkhhnnamicmpeenaelnjfhikgbkllg?) - (Расширение - 18.09.2024 Года)
 
