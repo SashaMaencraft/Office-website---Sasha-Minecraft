@@ -36,7 +36,7 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/mod-big-update" %}
 
-_**Фиолетовая зимля**_** {1.20.1} - {1.19.4}**
+_**Фиолетовая зимля**_**&#x20;{1.20.1} - {1.19.4}**
 
 {% embed url="https://legacy.curseforge.com/minecraft/mc-mods/pure-mod" %}
 
