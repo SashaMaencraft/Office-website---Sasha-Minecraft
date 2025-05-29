@@ -32,8 +32,8 @@ layout:
 </details>
 
 {% tabs %}
-{% tab title="Официальный - Бот" %}
-{% embed url="https://t.me/DragonCorpbot" %}
+{% tab title="Владелец" %}
+{% embed url="https://t.me/Vladykaand0" %}
 {% endtab %}
 
 {% tab title="ЮМoney" %}
