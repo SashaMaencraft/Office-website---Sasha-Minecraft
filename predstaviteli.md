@@ -33,7 +33,7 @@ layout:
 
 {% tabs %}
 {% tab title="Владелец" %}
-{% embed url="https://t.me/Vladykaand0" %}
+{% embed url="https://t.me/Dragonworld2000" %}
 {% endtab %}
 
 {% tab title="ЮМoney" %}
