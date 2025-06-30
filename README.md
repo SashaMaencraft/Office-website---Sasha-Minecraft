@@ -56,10 +56,6 @@ layout:
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/sotrudnichestvo" %}
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/osnova/pravilo-servera" %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/planiruetsya-buduyushem" %}
-
 🗃️ **Страницы**
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/server" %}
