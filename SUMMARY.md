@@ -11,6 +11,7 @@
   * [📰 Форумы](stranicy/forumy.md)
   * [📌 Гит Хап](stranicy/git-khap.md)
   * [📱 Соцсети](stranicy/socseti.md)
+  * [Конституция DragonCorp (Секретная редакция)](stranicy/konstituciya-dragoncorp-sekretnaya-redakciya.md)
 * [Музыкальные Проекты и сборки](muzykalnye-proekty-i-sborki/README.md)
   * [Моды И Сборки](muzykalnye-proekty-i-sborki/mody-i-sborki.md)
   * [Музыка кампании](muzykalnye-proekty-i-sborki/muzyka-kampanii.md)
