@@ -3,20 +3,6 @@ cover: >-
   ../.gitbook/assets/-tvPBu6EN0W5FCGtQHcZifFFpwmoc5iSS7K5LihTavl8DSCkHpZhvfl2LvJHqd08ongjgjAN
   (1).jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📌 Гит Хап

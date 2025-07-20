@@ -14,8 +14,6 @@
   * [Конституция DragonCorp (Секретная редакция)](stranicy/konstituciya-dragoncorp-sekretnaya-redakciya.md)
 * [Музыкальные Проекты и сборки](muzykalnye-proekty-i-sborki/README.md)
   * [Моды И Сборки](muzykalnye-proekty-i-sborki/mody-i-sborki.md)
-  * [Музыка кампании](muzykalnye-proekty-i-sborki/muzyka-kampanii.md)
-  * [Сделаем - Raveon](muzykalnye-proekty-i-sborki/sdelaem-raveon.md)
 * [Классы Безопасности](klassy-bezopasnosti/README.md)
   * [DXC-C](klassy-bezopasnosti/dxc-c.md)
   * [Клас D](klassy-bezopasnosti/klas-d.md)
