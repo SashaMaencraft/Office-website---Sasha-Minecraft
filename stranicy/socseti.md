@@ -5,6 +5,4 @@ coverY: 109.28301886792454
 
 # 📱 Соцсети
 
-{% embed url="https://vk.com/violetdragonempire" %}
-
 {% embed url="https://yoomoney.ru/prepaid?from=main-page" %}

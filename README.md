@@ -27,10 +27,6 @@ coverY: 0
 {% tab title="Донат - Поддержка" %}
 {% embed url="https://yoomoney.ru/prepaid?from=main-page" %}
 {% endtab %}
-
-{% tab title="Наш ВК - DragonCorp" %}
-{% embed url="https://vk.com/violetdragonempire" %}
-{% endtab %}
 {% endtabs %}
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft" %}
@@ -47,8 +43,6 @@ coverY: 0
 
 🗃️ **Страницы**
 
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/server" %}
-
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/sot-seti" %}
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/stranicy/forumy" %}
@@ -58,10 +52,6 @@ coverY: 0
 ## 🔗 Музыкальные Проекты и сборки
 
 {% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/mody-i-sborki" %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/muzyka-kampanii" %}
-
-{% embed url="https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft/muzykalnye-proekty-i-sborki/sdelaem-raveon" %}
 
 🗃️ **Крупные Проекты**
 
