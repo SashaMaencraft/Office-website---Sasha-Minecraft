@@ -11,7 +11,7 @@ coverY: 0
 /hellp - Помощь
 /project - Наш проект и также + и - нашего проекта Telegram бота
 /support - Прямая Поддержка
-/id - Узнать свой айпи
+/id - Узнать свой айди
 /site - Открыть сайт
 /sashaworld - Оживляем YouTube 
 /gift - Подарить падарак
@@ -20,3 +20,4 @@ coverY: 0
 /oooh - Открывает сайт с Потверждением
 <strong>/raveon - Сделаем - Raveon
 </strong></code></pre>
+

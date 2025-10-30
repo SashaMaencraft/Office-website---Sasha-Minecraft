@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Главная Страница Сайта](README.md)
-* [🧑‍💻 Представители](predstaviteli.md)
 * [О НАС](o-nas.md)
+* [🧑‍💻 Представители](predstaviteli.md)
 * [🗂️ Основа](osnova/README.md)
   * [✍️ Сотрудничество](osnova/sotrudnichestvo.md)
   * [📕 Правило нашего проекта](osnova/pravilo-nashego-proekta.md)
@@ -22,7 +22,5 @@
   * [Класс Опасный (Euclid - DC)](klassy-bezopasnosti/klass-opasnyi-euclid-dc.md)
   * [Класс Безвредный (Neutralized - DC)](klassy-bezopasnosti/klass-bezvrednyi-neutralized-dc.md)
   * [Классы](klassy-bezopasnosti/klassy.md)
-* [Крупные Проекты](krupnye-proekty/README.md)
-  * [💻 Проекты](krupnye-proekty/proekty.md)
 * [🗄️ Команды](komandy/README.md)
   * [🤖 Команды Бота](komandy/komandy-bota.md)

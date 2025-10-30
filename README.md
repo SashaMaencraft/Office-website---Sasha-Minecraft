@@ -1,4 +1,5 @@
 ---
+icon: desktop-arrow-down
 cover: .gitbook/assets/photo_2024-10-08_14-50-22 (1).jpg
 coverY: 0
 ---
@@ -11,6 +12,8 @@ coverY: 0
 Сайт Подтвержденный  Администраций Правительства и [DragonCorp](https://minecrafters-organization.gitbook.io/officialwebsitesashaminecraft)\
 
 {% endhint %}
+
+{% file src=".gitbook/assets/Гимн DragonCorp.mp3" %}
 
 {% tabs %}
 {% tab title="Се вапросы сюда?" %}
